@@ -26,9 +26,8 @@
 
 </form>
 
-<p <p feef ef </p> <p style="color:#0004ff;">Already have an account? Sign in</p>
+<p style="color:#0004ff;">Already have an account? Sign in</p>
 
 
 
-</body>
-</html>
+
